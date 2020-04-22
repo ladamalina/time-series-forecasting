@@ -2,7 +2,7 @@
 
 * [`sarima-model.ipynb`](sarima-model.ipynb) – demo of SARIMA model forecasting air passengers number, time series having annual seasonality.
 
-![](img/sarima-01.png)
+![](img/sarima-02.png)
 
 **Run Notebook**
 
