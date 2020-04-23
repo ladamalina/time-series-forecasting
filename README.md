@@ -4,6 +4,10 @@
 
 ![](img/sarima-02.png)
 
+* [`prophet-model.ipynb`](prophet-model.ipynb) – demo of [facebook prophet](https://facebook.github.io/prophet/) model forecasting.
+
+![](img/prophet-00.png)
+
 **Run Notebook**
 
 ```bash
