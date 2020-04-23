@@ -4,7 +4,7 @@
 
 ![](img/sarima-02.png)
 
-* [`prophet-model.ipynb`](prophet-model.ipynb) – demo of [facebook prophet](https://facebook.github.io/prophet/) model forecasting.
+* [`prophet-model.ipynb`](prophet-model.ipynb) – demo of [facebook prophet](https://facebook.github.io/prophet/) model forecasting 1961 year and later.
 
 ![](img/prophet-00.png)
 
